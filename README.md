@@ -1,8 +1,8 @@
 # Pokédex Explorer
 
-![Pokédex Explorer Screenshot](public/pokedex-screenshot.svg)
+![Homepage Screenshot](public/2.png)
 
-![Pokemon Detail Screenshot](public/pokemon-detail-screenshot.svg)
+![Pokemon Detail Screenshot](public/1.png)
 
 เว็บแอปพลิเคชันสำหรับค้นหาข้อมูลโปเกมอนจาก PokeAPI แบบ Responsive และสวยงาม โดยแสดงรายการโปเกมอนทั้งหมด 1,351 ตัว พร้อมหน้ารายละเอียดที่มีข้อมูลสำคัญ เช่น ชื่อ รูปภาพ ประเภท สถิติ วิวัฒนาการ และเสียงของโปเกมอน
 

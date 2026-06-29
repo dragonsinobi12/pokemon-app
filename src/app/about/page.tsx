@@ -52,7 +52,7 @@ export default function AboutPage() {
         <Box sx={{ mt: 4 }}>
           <Button
             component="a"
-            href="https://github.com/"
+            href="https://github.com/dragonsinobi12/pokemon-app"
             target="_blank"
             rel="noreferrer"
             variant="contained"
